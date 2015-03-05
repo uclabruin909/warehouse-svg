@@ -25,25 +25,21 @@ var Zone = (function() {
 				}
 			},
 
-			getColor: function() {
-				return this.bgColor;
-			},
-
 			init: function() {
 
-				var that = this,
-					trigger = document.getElementById(this.triggerId);
-					zoneGrp = document.getElementById(this.domId),
-					bgColor = this.getColor(),
-					zoneAreas = zoneGrp.children;
-
-
+				var that = this;
+				var trigger = document.getElementById(that.triggerId);
 
 				trigger.addEventListener('click', function(e) {
 
 					e.preventDefault();
 					/*********Toggle from initial status ********/
 					that.toggleStatus();
+		
+					var zoneGrp = document.getElementById(that.domId),
+						bgColor = that.bgColor,
+						zoneAreas = zoneGrp.children;
+
 
 					if (that.status === 'active') {
 
