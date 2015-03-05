@@ -3,16 +3,17 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1400px"
 	 height="900px" viewBox="0 0 1400 900" style="enable-background:new 0 0 1400 900;" xml:space="preserve">
-<g id="Layer_5">
+<g id="Zone_1_Area">
+	<rect x="1032" y="43" style="fill:#999999;" width="107" height="92"/>
 </g>
 <g id="Zone_2_Area">
 	<rect x="1187" y="135" style="fill:#D36A6A;" width="141" height="270"/>
 </g>
-<g id="Zone_4_Area">
-	<rect x="1187" y="405" style="fill:#069EC1;" width="141" height="202"/>
-</g>
 <g id="Zone_3_Area">
 	<rect x="1051" y="216" style="fill:#BFBF08;" width="93" height="184"/>
+</g>
+<g id="Zone_4_Area">
+	<rect x="1187" y="405" style="fill:#069EC1;" width="141" height="202"/>
 </g>
 <g id="Zone_5_Area">
 	<rect x="1051" y="400" style="fill:#5DBC0A;" width="93" height="240"/>
@@ -30,7 +31,10 @@
 	<rect y="74" style="fill:#FF2A00;" width="44" height="569"/>
 </g>
 <g id="Zone_9_Area">
-	<rect x="150" style="fill:#774326;" width="682" height="42"/>
+	<rect x="272.5" y="750.5" style="fill:#27FC08;stroke:#000000;stroke-miterlimit:10;" width="295" height="129"/>
+</g>
+<g id="Zone_10_Area">
+	<rect x="-1" y="665" style="fill:#395EF7;" width="137" height="234"/>
 </g>
 <g id="Zone_11_Area">
 	<rect x="171" y="342" style="fill:#00E1FF;" width="642" height="71"/>
@@ -38,8 +42,8 @@
 	<rect x="169" y="431" style="fill:#00E1FF;" width="642" height="285"/>
 	<rect x="379" y="657" style="fill:#00E1FF;" width="628" height="59"/>
 </g>
-<g id="Zone_12_Area">
-	<rect x="-1" y="665" style="fill:#395EF7;" width="137" height="234"/>
+<g id="Zone_12_Area_1_">
+	<rect x="150" style="fill:#774326;" width="682" height="42"/>
 </g>
 <g id="Conveyer">
 	<g>
@@ -67,7 +71,36 @@
 		<line style="fill:#B2B2B2;stroke:#000000;stroke-miterlimit:10;" x1="1168.5" y1="632" x2="1168.5" y2="152"/>
 	</g>
 </g>
-<g id="Zone_2_Aisles">
+<g id="Zone_1">
+	<g>
+		<rect x="1046.5" y="50.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="18" height="74"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1055.5" y1="125" x2="1055.5" y2="50"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1064" y1="62.5" x2="1046" y2="62.5"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1064" y1="74.5" x2="1046" y2="74.5"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1064" y1="87.5" x2="1046" y2="87.5"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1064" y1="99.5" x2="1046" y2="99.5"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1064" y1="112.5" x2="1046" y2="112.5"/>
+	</g>
+	<g>
+		<rect x="1077.5" y="51.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="18" height="74"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1086.5" y1="126" x2="1086.5" y2="51"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1095" y1="63.5" x2="1077" y2="63.5"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1095" y1="75.5" x2="1077" y2="75.5"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1095" y1="88.5" x2="1077" y2="88.5"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1095" y1="100.5" x2="1077" y2="100.5"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1095" y1="113.5" x2="1077" y2="113.5"/>
+	</g>
+	<g>
+		<rect x="1106.5" y="51.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="18" height="74"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1115.5" y1="126" x2="1115.5" y2="51"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1124" y1="63.5" x2="1106" y2="63.5"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1124" y1="75.5" x2="1106" y2="75.5"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1124" y1="88.5" x2="1106" y2="88.5"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1124" y1="100.5" x2="1106" y2="100.5"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1124" y1="113.5" x2="1106" y2="113.5"/>
+	</g>
+</g>
+<g id="Zone_2">
 	<g>
 		<rect x="1198.5" y="149.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="115" height="15"/>
 		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1198" y1="157.5" x2="1313" y2="157.5"/>
@@ -249,7 +282,7 @@
 		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1212.5" y1="483" x2="1212.5" y2="499"/>
 	</g>
 </g>
-<g id="Zone_3_Aisles">
+<g id="Zone_3">
 	<g>
 		<rect x="1062.5" y="278.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="74" height="18"/>
 		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1062" y1="288.5" x2="1137" y2="288.5"/>
@@ -409,7 +442,7 @@
 		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="1074.5" y1="619" x2="1074.5" y2="629"/>
 	</g>
 </g>
-<g id="Zone_6__x26_7_Aisles">
+<g id="Zone_6_and_7">
 	<g>
 		<rect x="880.5" y="236.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="140" height="26"/>
 		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="881" y1="251.5" x2="1021" y2="251.5"/>
@@ -465,7 +498,7 @@
 		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="905.5" y1="568" x2="905.5" y2="539"/>
 	</g>
 </g>
-<g id="Zone_8__x26__11_Aisles">
+<g id="Zone_8_and_11">
 	<g>
 		<rect x="183.5" y="117.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="617" height="17"/>
 		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="776.5" y1="118" x2="776.5" y2="136"/>
@@ -777,78 +810,1916 @@
 		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="2" y1="168.5" x2="20" y2="168.5"/>
 		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="2" y1="136.5" x2="20" y2="136.5"/>
 	</g>
+</g>
+<g id="Zone_9">
 	<g>
-		<rect x="185.5" y="16.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="617" height="16"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="778.5" y1="16" x2="778.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="757.5" y1="16" x2="757.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="735.5" y1="16" x2="735.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="714.5" y1="16" x2="714.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="692.5" y1="16" x2="692.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="670.5" y1="16" x2="670.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="648.5" y1="16" x2="648.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="628.5" y1="16" x2="628.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="604.5" y1="16" x2="604.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="582.5" y1="16" x2="582.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="558.5" y1="16" x2="558.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="539.5" y1="16" x2="539.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="516.5" y1="16" x2="516.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="495.5" y1="16" x2="495.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="472.5" y1="16" x2="472.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="449.5" y1="16" x2="449.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="428.5" y1="16" x2="428.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="405.5" y1="16" x2="405.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="384.5" y1="16" x2="384.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="362.5" y1="16" x2="362.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="340.5" y1="16" x2="340.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="318.5" y1="16" x2="318.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="296.5" y1="16" x2="296.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="273.5" y1="16" x2="273.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="254.5" y1="16" x2="254.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="229.5" y1="16" x2="229.5" y2="34"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="207.5" y1="16" x2="207.5" y2="34"/>
+		<rect x="293.5" y="761.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="258" height="26"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="292" y1="772.5" x2="550" y2="772.5"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="525.5" y1="762" x2="525.5" y2="788"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="499.5" y1="762" x2="499.5" y2="788"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="474.5" y1="762" x2="474.5" y2="788"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="447.5" y1="762" x2="447.5" y2="788"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="421.5" y1="762" x2="421.5" y2="788"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="397.5" y1="762" x2="397.5" y2="788"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="371.5" y1="762" x2="371.5" y2="788"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="344.5" y1="762" x2="344.5" y2="788"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="320.5" y1="762" x2="320.5" y2="788"/>
+	</g>
+	<g>
+		<rect x="292.5" y="805.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="258" height="25"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="291" y1="817.5" x2="549" y2="817.5"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="524.5" y1="806" x2="524.5" y2="831"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="498.5" y1="806" x2="498.5" y2="831"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="473.5" y1="806" x2="473.5" y2="831"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="446.5" y1="806" x2="446.5" y2="831"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="420.5" y1="806" x2="420.5" y2="831"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="396.5" y1="806" x2="396.5" y2="831"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="370.5" y1="806" x2="370.5" y2="831"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="343.5" y1="806" x2="343.5" y2="831"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="319.5" y1="806" x2="319.5" y2="831"/>
+	</g>
+	<g>
+		<rect x="309.5" y="846.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="241" height="23"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="308" y1="857.5" x2="549" y2="857.5"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="523.5" y1="845" x2="523.5" y2="869"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="496.5" y1="845" x2="496.5" y2="869"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="471.5" y1="845" x2="471.5" y2="869"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="443.5" y1="845" x2="443.5" y2="869"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="415.5" y1="845" x2="415.5" y2="869"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="388.5" y1="845" x2="388.5" y2="869"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="362.5" y1="845" x2="362.5" y2="869"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="336.5" y1="845" x2="336.5" y2="869"/>
 	</g>
 </g>
-<g id="Zone_9__x28_Rims_x29_">
-	<g>
-		<rect x="293.5" y="750.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="258" height="26"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="292" y1="761.5" x2="550" y2="761.5"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="525.5" y1="751" x2="525.5" y2="777"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="499.5" y1="751" x2="499.5" y2="777"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="474.5" y1="751" x2="474.5" y2="777"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="447.5" y1="751" x2="447.5" y2="777"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="421.5" y1="751" x2="421.5" y2="777"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="397.5" y1="751" x2="397.5" y2="777"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="371.5" y1="751" x2="371.5" y2="777"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="344.5" y1="751" x2="344.5" y2="777"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="320.5" y1="751" x2="320.5" y2="777"/>
-	</g>
-	<g>
-		<rect x="292.5" y="794.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="258" height="25"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="291" y1="806.5" x2="549" y2="806.5"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="524.5" y1="795" x2="524.5" y2="820"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="498.5" y1="795" x2="498.5" y2="820"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="473.5" y1="795" x2="473.5" y2="820"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="446.5" y1="795" x2="446.5" y2="820"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="420.5" y1="795" x2="420.5" y2="820"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="396.5" y1="795" x2="396.5" y2="820"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="370.5" y1="795" x2="370.5" y2="820"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="343.5" y1="795" x2="343.5" y2="820"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="319.5" y1="795" x2="319.5" y2="820"/>
-	</g>
-	<g>
-		<rect x="309.5" y="835.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="241" height="23"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="308" y1="846.5" x2="549" y2="846.5"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="523.5" y1="834" x2="523.5" y2="858"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="496.5" y1="834" x2="496.5" y2="858"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="471.5" y1="834" x2="471.5" y2="858"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="443.5" y1="834" x2="443.5" y2="858"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="415.5" y1="834" x2="415.5" y2="858"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="388.5" y1="834" x2="388.5" y2="858"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="362.5" y1="834" x2="362.5" y2="858"/>
-		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="336.5" y1="834" x2="336.5" y2="858"/>
-	</g>
-</g>
-<g id="Zone_12_Paint">
+<g id="Zone_10">
 	<rect x="-0.5" y="683.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="120" height="217"/>
+</g>
+<g id="Zone_12">
+	<g>
+		<rect x="186.5" y="12.5" style="fill:none;stroke:#000000;stroke-miterlimit:10;" width="617" height="16"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="779.5" y1="12" x2="779.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="758.5" y1="12" x2="758.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="736.5" y1="12" x2="736.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="715.5" y1="12" x2="715.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="693.5" y1="12" x2="693.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="671.5" y1="12" x2="671.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="649.5" y1="12" x2="649.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="629.5" y1="12" x2="629.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="605.5" y1="12" x2="605.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="583.5" y1="12" x2="583.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="559.5" y1="12" x2="559.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="540.5" y1="12" x2="540.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="517.5" y1="12" x2="517.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="496.5" y1="12" x2="496.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="473.5" y1="12" x2="473.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="450.5" y1="12" x2="450.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="429.5" y1="12" x2="429.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="406.5" y1="12" x2="406.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="385.5" y1="12" x2="385.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="363.5" y1="12" x2="363.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="341.5" y1="12" x2="341.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="319.5" y1="12" x2="319.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="297.5" y1="12" x2="297.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="274.5" y1="12" x2="274.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="255.5" y1="12" x2="255.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="230.5" y1="12" x2="230.5" y2="30"/>
+		<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="208.5" y1="12" x2="208.5" y2="30"/>
+	</g>
+</g>
+<g id="Pick_Path_1">
+	<g>
+		<g>
+			<g>
+				<rect x="1242.668" y="76.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1246.033,98.8 1242.668,95.435 1250.602,87.5 1242.668,79.565 1246.033,76.2 
+						1257.334,87.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1220.067" y="76.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1223.433,98.8 1220.067,95.435 1228.002,87.5 1220.067,79.565 1223.433,76.2 
+						1234.733,87.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1197.468" y="76.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1200.833,98.8 1197.468,95.435 1205.402,87.5 1197.468,79.565 1200.833,76.2 
+						1212.134,87.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1174.867" y="76.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1178.232,98.8 1174.867,95.435 1182.801,87.5 1174.867,79.565 1178.232,76.2 
+						1189.533,87.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1152.268" y="76.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1155.633,98.8 1152.268,95.435 1160.201,87.5 1152.268,79.565 1155.633,76.2 
+						1166.934,87.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1129.667" y="76.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1133.032,98.8 1129.667,95.435 1137.602,87.5 1129.667,79.565 1133.032,76.2 
+						1144.333,87.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1107.067" y="76.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1110.433,98.8 1107.067,95.435 1115.002,87.5 1107.067,79.565 1110.433,76.2 
+						1121.733,87.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1084.467" y="76.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1087.832,98.8 1084.467,95.435 1092.4,87.5 1084.467,79.565 1087.832,76.2 
+						1099.133,87.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1061.867" y="76.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1065.232,98.8 1061.867,95.435 1069.801,87.5 1061.867,79.565 1065.232,76.2 
+						1076.533,87.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1039.267" y="76.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1042.632,98.8 1039.267,95.435 1047.201,87.5 1039.267,79.565 1042.632,76.2 
+						1053.933,87.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1016.667" y="76.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1020.032,98.8 1016.667,95.435 1024.602,87.5 1016.667,79.565 1020.032,76.2 
+						1031.333,87.5 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Pick_Path_2">
+	<g>
+		<g>
+			<g>
+				<rect x="1245.7" y="375.969" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1245.7,379.334 1249.065,375.969 1257,383.903 1264.934,375.969 1268.3,379.334 
+						1257,390.635 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1245.7" y="353.368" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1245.7,356.733 1249.065,353.368 1257,361.302 1264.934,353.368 1268.3,356.733 
+						1257,368.034 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1245.7" y="330.768" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1245.7,334.133 1249.065,330.768 1257,338.702 1264.934,330.768 1268.3,334.133 
+						1257,345.435 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1245.7" y="308.168" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1245.7,311.533 1249.065,308.168 1257,316.102 1264.934,308.168 1268.3,311.533 
+						1257,322.834 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1245.7" y="285.568" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1245.7,288.933 1249.065,285.568 1257,293.502 1264.934,285.568 1268.3,288.933 
+						1257,300.234 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1245.7" y="262.968" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1245.7,266.333 1249.065,262.968 1257,270.902 1264.934,262.968 1268.3,266.333 
+						1257,277.634 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1245.7" y="240.368" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1245.7,243.733 1249.065,240.368 1257,248.302 1264.934,240.368 1268.3,243.733 
+						1257,255.034 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1245.7" y="217.768" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1245.7,221.133 1249.065,217.768 1257,225.702 1264.934,217.768 1268.3,221.133 
+						1257,232.434 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1245.7" y="195.167" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1245.7,198.533 1249.065,195.167 1257,203.102 1264.934,195.167 1268.3,198.533 
+						1257,209.834 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1245.7" y="172.567" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1245.7,175.933 1249.065,172.567 1257,180.501 1264.934,172.567 1268.3,175.933 
+						1257,187.234 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1245.7" y="149.967" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1245.7,153.333 1249.065,149.967 1257,157.901 1264.934,149.967 1268.3,153.333 
+						1257,164.634 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1245.7" y="127.367" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1245.7,130.732 1249.065,127.367 1257,135.301 1264.934,127.367 1268.3,130.732 
+						1257,142.034 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1245.7" y="104.767" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1245.7,108.132 1249.065,104.767 1257,112.701 1264.934,104.767 1268.3,108.132 
+						1257,119.434 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1245.7" y="82.167" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1245.7,85.532 1249.065,82.167 1257,90.101 1264.934,82.167 1268.3,85.532 1257,96.833 
+											"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Pick_Path_3">
+	<g>
+		<g>
+			<g>
+				<rect x="1246.7" y="599.568" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1246.7,602.934 1250.065,599.568 1258,607.502 1265.934,599.568 1269.3,602.934 
+						1258,614.234 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1246.7" y="576.968" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1246.7,580.333 1250.065,576.968 1258,584.901 1265.934,576.968 1269.3,580.333 
+						1258,591.634 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1246.7" y="554.368" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1246.7,557.733 1250.065,554.368 1258,562.302 1265.934,554.368 1269.3,557.733 
+						1258,569.034 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1246.7" y="531.768" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1246.7,535.133 1250.065,531.768 1258,539.701 1265.934,531.768 1269.3,535.133 
+						1258,546.434 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1246.7" y="509.168" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1246.7,512.533 1250.065,509.168 1258,517.102 1265.934,509.168 1269.3,512.533 
+						1258,523.834 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1246.7" y="486.567" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1246.7,489.933 1250.065,486.567 1258,494.501 1265.934,486.567 1269.3,489.933 
+						1258,501.233 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1246.7" y="463.968" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1246.7,467.333 1250.065,463.968 1258,471.901 1265.934,463.968 1269.3,467.333 
+						1258,478.634 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1246.7" y="441.367" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1246.7,444.732 1250.065,441.367 1258,449.301 1265.934,441.367 1269.3,444.732 
+						1258,456.033 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1246.7" y="418.768" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1246.7,422.133 1250.065,418.768 1258,426.702 1265.934,418.768 1269.3,422.133 
+						1258,433.434 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1246.7" y="396.167" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1246.7,399.532 1250.065,396.167 1258,404.101 1265.934,396.167 1269.3,399.532 
+						1258,410.833 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Pick_Path_4">
+	<g>
+		<g>
+			<g>
+				<rect x="1092.467" y="605.2" style="fill:none;" width="14.666" height="22.601"/>
+				<g>
+					<polygon style="fill:#202020;" points="1103.768,605.2 1107.133,608.565 1099.198,616.5 1107.133,624.435 1103.768,627.801 
+						1092.467,616.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1115.066" y="605.2" style="fill:none;" width="14.666" height="22.601"/>
+				<g>
+					<polygon style="fill:#202020;" points="1126.367,605.2 1129.732,608.565 1121.799,616.5 1129.732,624.435 1126.367,627.801 
+						1115.066,616.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1137.666" y="605.2" style="fill:none;" width="14.667" height="22.601"/>
+				<g>
+					<polygon style="fill:#202020;" points="1148.968,605.2 1152.333,608.565 1144.398,616.5 1152.333,624.435 1148.968,627.801 
+						1137.666,616.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1160.267" y="605.2" style="fill:none;" width="14.666" height="22.601"/>
+				<g>
+					<polygon style="fill:#202020;" points="1171.567,605.2 1174.933,608.565 1166.999,616.5 1174.933,624.435 1171.567,627.801 
+						1160.267,616.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1182.867" y="605.2" style="fill:none;" width="14.666" height="22.601"/>
+				<g>
+					<polygon style="fill:#202020;" points="1194.168,605.2 1197.533,608.565 1189.599,616.5 1197.533,624.435 1194.168,627.801 
+						1182.867,616.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1205.467" y="605.2" style="fill:none;" width="14.666" height="22.601"/>
+				<g>
+					<polygon style="fill:#202020;" points="1216.768,605.2 1220.133,608.565 1212.199,616.5 1220.133,624.435 1216.768,627.801 
+						1205.467,616.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1228.066" y="605.2" style="fill:none;" width="14.667" height="22.601"/>
+				<g>
+					<polygon style="fill:#202020;" points="1239.368,605.2 1242.733,608.565 1234.799,616.5 1242.733,624.435 1239.368,627.801 
+						1228.066,616.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1250.667" y="605.2" style="fill:none;" width="14.666" height="22.601"/>
+				<g>
+					<polygon style="fill:#202020;" points="1261.968,605.2 1265.333,608.565 1257.399,616.5 1265.333,624.435 1261.968,627.801 
+						1250.667,616.5 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Pick_Path_5">
+	<g>
+		<g>
+			<g>
+				<rect x="1085.45" y="418.616" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,429.917 1104.685,433.282 1096.75,425.348 1088.815,433.282 1085.45,429.917 
+						1096.75,418.616 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="441.216" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,452.518 1104.685,455.883 1096.75,447.948 1088.815,455.883 1085.45,452.518 
+						1096.75,441.216 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="463.816" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,475.117 1104.685,478.482 1096.75,470.549 1088.815,478.482 1085.45,475.117 
+						1096.75,463.816 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="486.416" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,497.718 1104.685,501.083 1096.75,493.148 1088.815,501.083 1085.45,497.718 
+						1096.75,486.416 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="509.017" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,520.317 1104.685,523.683 1096.75,515.749 1088.815,523.683 1085.45,520.317 
+						1096.75,509.017 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="531.616" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,542.918 1104.685,546.283 1096.75,538.349 1088.815,546.283 1085.45,542.918 
+						1096.75,531.616 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="554.217" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,565.518 1104.685,568.883 1096.75,560.949 1088.815,568.883 1085.45,565.518 
+						1096.75,554.217 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="576.816" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,588.118 1104.685,591.483 1096.75,583.549 1088.815,591.483 1085.45,588.118 
+						1096.75,576.816 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="599.417" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,610.718 1104.685,614.083 1096.75,606.149 1088.815,614.083 1085.45,610.718 
+						1096.75,599.417 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Pick_Path_6">
+	<g>
+		<g>
+			<g>
+				<rect x="1085.45" y="236.616" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,247.917 1104.685,251.282 1096.75,243.348 1088.815,251.282 1085.45,247.917 
+						1096.75,236.616 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="259.216" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,270.517 1104.685,273.882 1096.75,265.948 1088.815,273.882 1085.45,270.517 
+						1096.75,259.216 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="281.816" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,293.117 1104.685,296.482 1096.75,288.548 1088.815,296.482 1085.45,293.117 
+						1096.75,281.816 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="304.417" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,315.717 1104.685,319.083 1096.75,311.148 1088.815,319.083 1085.45,315.717 
+						1096.75,304.417 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="327.017" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,338.317 1104.685,341.683 1096.75,333.749 1088.815,341.683 1085.45,338.317 
+						1096.75,327.017 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="349.617" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,360.917 1104.685,364.283 1096.75,356.349 1088.815,364.283 1085.45,360.917 
+						1096.75,349.617 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="372.217" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,383.518 1104.685,386.883 1096.75,378.949 1088.815,386.883 1085.45,383.518 
+						1096.75,372.217 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="394.817" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,406.118 1104.685,409.483 1096.75,401.549 1088.815,409.483 1085.45,406.118 
+						1096.75,394.817 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1085.45" y="417.417" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1108.05,428.718 1104.685,432.083 1096.75,424.149 1088.815,432.083 1085.45,428.718 
+						1096.75,417.417 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Pick_Path_7">
+	<g>
+		<g>
+			<g>
+				<rect x="1158.592" y="215.824" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1161.957,238.424 1158.592,235.059 1166.525,227.124 1158.592,219.189 
+						1161.957,215.824 1173.258,227.124 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1135.991" y="215.824" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1139.356,238.424 1135.991,235.059 1143.926,227.124 1135.991,219.189 
+						1139.356,215.824 1150.657,227.124 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1113.392" y="215.824" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1116.757,238.424 1113.392,235.059 1121.326,227.124 1113.392,219.189 
+						1116.757,215.824 1128.058,227.124 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1090.791" y="215.824" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1094.156,238.424 1090.791,235.059 1098.725,227.124 1090.791,219.189 
+						1094.156,215.824 1105.457,227.124 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="1159.7" y="650.569" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,653.935 1163.065,650.569 1171,658.503 1178.934,650.569 1182.3,653.935 
+						1171,665.235 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="627.969" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,631.334 1163.065,627.969 1171,635.902 1178.934,627.969 1182.3,631.334 
+						1171,642.635 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="605.369" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,608.734 1163.065,605.369 1171,613.303 1178.934,605.369 1182.3,608.734 
+						1171,620.035 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="582.769" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,586.134 1163.065,582.769 1171,590.702 1178.934,582.769 1182.3,586.134 
+						1171,597.435 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="560.169" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,563.534 1163.065,560.169 1171,568.103 1178.934,560.169 1182.3,563.534 
+						1171,574.835 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="537.568" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,540.934 1163.065,537.568 1171,545.502 1178.934,537.568 1182.3,540.934 
+						1171,552.234 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="514.969" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,518.334 1163.065,514.969 1171,522.902 1178.934,514.969 1182.3,518.334 
+						1171,529.635 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="492.368" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,495.733 1163.065,492.368 1171,500.302 1178.934,492.368 1182.3,495.733 
+						1171,507.034 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="469.769" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,473.134 1163.065,469.769 1171,477.702 1178.934,469.769 1182.3,473.134 
+						1171,484.435 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="447.168" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,450.533 1163.065,447.168 1171,455.102 1178.934,447.168 1182.3,450.533 
+						1171,461.834 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="424.568" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,427.934 1163.065,424.568 1171,432.502 1178.934,424.568 1182.3,427.934 
+						1171,439.234 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="401.968" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,405.333 1163.065,401.968 1171,409.902 1178.934,401.968 1182.3,405.333 
+						1171,416.634 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="379.368" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,382.733 1163.065,379.368 1171,387.302 1178.934,379.368 1182.3,382.733 
+						1171,394.034 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="356.768" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,360.133 1163.065,356.768 1171,364.702 1178.934,356.768 1182.3,360.133 
+						1171,371.434 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="334.167" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,337.533 1163.065,334.167 1171,342.102 1178.934,334.167 1182.3,337.533 
+						1171,348.834 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="311.567" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,314.933 1163.065,311.567 1171,319.501 1178.934,311.567 1182.3,314.933 
+						1171,326.234 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="288.967" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,292.333 1163.065,288.967 1171,296.901 1178.934,288.967 1182.3,292.333 
+						1171,303.634 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="266.367" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,269.732 1163.065,266.367 1171,274.301 1178.934,266.367 1182.3,269.732 
+						1171,281.034 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="243.767" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,247.132 1163.065,243.767 1171,251.701 1178.934,243.767 1182.3,247.132 
+						1171,258.434 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="1159.7" y="221.167" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="1159.7,224.532 1163.065,221.167 1171,229.101 1178.934,221.167 1182.3,224.532 
+						1171,235.833 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Pick_Path_8">
+	<g>
+		<g>
+			<g>
+				
+					<rect x="963.59" y="611.708" transform="matrix(0.9814 0.192 -0.192 0.9814 137.6639 -174.8075)" style="fill:none;" width="14.665" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="976.986,612.681 979.644,616.629 970.333,622.893 976.597,632.203 972.647,634.86 
+						963.727,621.601 					"/>
+				</g>
+			</g>
+			<g>
+				
+					<rect x="985.77" y="616.047" transform="matrix(0.9814 0.192 -0.192 0.9814 138.9622 -179.0406)" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="999.166,617.02 1001.823,620.969 992.513,627.232 998.776,636.542 994.827,639.199 
+						985.906,625.939 					"/>
+				</g>
+			</g>
+			<g>
+				
+					<rect x="1007.949" y="620.386" transform="matrix(0.9814 0.192 -0.192 0.9814 140.2083 -183.2194)" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1021.346,621.358 1024.003,625.308 1014.692,631.571 1020.956,640.881 
+						1017.007,643.538 1008.086,630.278 					"/>
+				</g>
+			</g>
+			<g>
+				
+					<rect x="1030.129" y="624.726" transform="matrix(0.9814 0.192 -0.192 0.9814 141.4007 -187.3394)" style="fill:none;" width="14.665" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1043.525,625.698 1046.183,629.646 1036.872,635.91 1043.136,645.221 1039.187,647.878 
+						1030.266,634.618 					"/>
+				</g>
+			</g>
+			<g>
+				
+					<rect x="1052.309" y="629.065" transform="matrix(0.9814 0.192 -0.192 0.9814 142.7007 -191.5767)" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1065.705,630.037 1068.362,633.986 1059.052,640.25 1065.315,649.56 1061.366,652.217 
+						1052.445,638.957 					"/>
+				</g>
+			</g>
+			<g>
+				
+					<rect x="1074.488" y="633.405" transform="matrix(0.9814 0.192 -0.192 0.9814 143.8812 -195.6821)" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1087.885,634.377 1090.541,638.325 1081.231,644.589 1087.494,653.898 
+						1083.546,656.556 1074.625,643.297 					"/>
+				</g>
+			</g>
+			<g>
+				
+					<rect x="1096.668" y="637.743" transform="matrix(0.9814 0.192 -0.192 0.9814 145.1266 -199.8591)" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1110.064,638.716 1112.721,642.664 1103.411,648.928 1109.674,658.238 
+						1105.726,660.896 1096.805,647.636 					"/>
+				</g>
+			</g>
+			<g>
+				
+					<rect x="1118.847" y="642.083" transform="matrix(0.9814 0.192 -0.192 0.9814 146.4282 -204.1002)" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1132.244,643.055 1134.9,647.004 1125.591,653.268 1131.854,662.577 1127.905,665.234 
+						1118.983,651.975 					"/>
+				</g>
+			</g>
+			<g>
+				
+					<rect x="1141.027" y="646.422" transform="matrix(0.9814 0.192 -0.192 0.9814 147.6176 -208.2131)" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1154.424,647.395 1157.08,651.343 1147.771,657.606 1154.033,666.917 1150.085,669.574 
+						1141.163,656.314 					"/>
+				</g>
+			</g>
+			<g>
+				
+					<rect x="1163.207" y="650.761" transform="matrix(0.9814 0.192 -0.192 0.9814 148.9203 -212.457)" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="1176.604,651.733 1179.26,655.683 1169.95,661.946 1176.213,671.256 1172.265,673.913 
+						1163.343,660.653 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="939.449" y="154.415" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,165.716 958.684,169.081 950.749,161.147 942.814,169.081 939.449,165.716 
+						950.749,154.415 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="177.015" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,188.316 958.684,191.681 950.749,183.747 942.814,191.681 939.449,188.316 
+						950.749,177.015 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="199.615" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,210.916 958.684,214.281 950.749,206.347 942.814,214.281 939.449,210.916 
+						950.749,199.615 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="222.215" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,233.516 958.684,236.881 950.749,228.947 942.814,236.881 939.449,233.516 
+						950.749,222.215 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="244.815" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,256.116 958.684,259.481 950.749,251.547 942.814,259.481 939.449,256.116 
+						950.749,244.815 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="267.416" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,278.716 958.684,282.082 950.749,274.147 942.814,282.082 939.449,278.716 
+						950.749,267.416 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="290.016" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,301.316 958.684,304.682 950.749,296.748 942.814,304.682 939.449,301.316 
+						950.749,290.016 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="312.616" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,323.917 958.684,327.282 950.749,319.348 942.814,327.282 939.449,323.917 
+						950.749,312.616 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="335.216" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,346.517 958.684,349.882 950.749,341.948 942.814,349.882 939.449,346.517 
+						950.749,335.216 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="357.816" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,369.117 958.684,372.482 950.749,364.548 942.814,372.482 939.449,369.117 
+						950.749,357.816 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="380.416" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,391.717 958.684,395.082 950.749,387.148 942.814,395.082 939.449,391.717 
+						950.749,380.416 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="403.016" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,414.317 958.684,417.682 950.749,409.748 942.814,417.682 939.449,414.317 
+						950.749,403.016 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="425.616" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,436.917 958.684,440.282 950.749,432.348 942.814,440.282 939.449,436.917 
+						950.749,425.616 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="448.216" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,459.518 958.684,462.883 950.749,454.948 942.814,462.883 939.449,459.518 
+						950.749,448.216 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="470.816" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,482.117 958.684,485.482 950.749,477.549 942.814,485.482 939.449,482.117 
+						950.749,470.816 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="493.416" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,504.718 958.684,508.083 950.749,500.148 942.814,508.083 939.449,504.718 
+						950.749,493.416 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="516.017" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,527.317 958.684,530.683 950.749,522.749 942.814,530.683 939.449,527.317 
+						950.749,516.017 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="538.616" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,549.918 958.684,553.283 950.749,545.349 942.814,553.283 939.449,549.918 
+						950.749,538.616 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="561.217" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,572.518 958.684,575.883 950.749,567.949 942.814,575.883 939.449,572.518 
+						950.749,561.217 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="583.816" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,595.118 958.684,598.483 950.749,590.549 942.814,598.483 939.449,595.118 
+						950.749,583.816 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="939.449" y="606.417" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="962.049,617.718 958.684,621.083 950.749,613.149 942.814,621.083 939.449,617.718 
+						950.749,606.417 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Pick_Path_9">
+	<g>
+		<g>
+			<g>
+				<rect x="16.063" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="27.364,146.2 30.729,149.565 22.795,157.5 30.729,165.435 27.364,168.8 16.063,157.5 
+											"/>
+				</g>
+			</g>
+			<g>
+				<rect x="38.663" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="49.964,146.2 53.329,149.565 45.396,157.5 53.329,165.435 49.964,168.8 38.663,157.5 
+											"/>
+				</g>
+			</g>
+			<g>
+				<rect x="61.263" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="72.564,146.2 75.93,149.565 67.995,157.5 75.93,165.435 72.564,168.8 61.263,157.5 
+											"/>
+				</g>
+			</g>
+			<g>
+				<rect x="83.863" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="95.164,146.2 98.529,149.565 90.596,157.5 98.529,165.435 95.164,168.8 83.863,157.5 
+											"/>
+				</g>
+			</g>
+			<g>
+				<rect x="106.463" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="117.765,146.2 121.13,149.565 113.195,157.5 121.13,165.435 117.765,168.8 
+						106.463,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="129.063" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="140.364,146.2 143.729,149.565 135.796,157.5 143.729,165.435 140.364,168.8 
+						129.063,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="151.664" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="162.965,146.2 166.33,149.565 158.396,157.5 166.33,165.435 162.965,168.8 
+						151.664,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="174.264" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="185.564,146.2 188.93,149.565 180.996,157.5 188.93,165.435 185.564,168.8 
+						174.264,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="196.864" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="208.165,146.2 211.53,149.565 203.596,157.5 211.53,165.435 208.165,168.8 
+						196.864,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="219.464" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="230.765,146.2 234.13,149.565 226.196,157.5 234.13,165.435 230.765,168.8 
+						219.464,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="242.064" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="253.365,146.2 256.73,149.565 248.796,157.5 256.73,165.435 253.365,168.8 
+						242.064,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="264.664" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="275.965,146.2 279.33,149.565 271.396,157.5 279.33,165.435 275.965,168.8 
+						264.664,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="287.264" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="298.565,146.2 301.931,149.565 293.996,157.5 301.931,165.435 298.565,168.8 
+						287.264,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="309.864" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="321.165,146.2 324.53,149.565 316.597,157.5 324.53,165.435 321.165,168.8 
+						309.864,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="332.464" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="343.766,146.2 347.131,149.565 339.196,157.5 347.131,165.435 343.766,168.8 
+						332.464,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="355.064" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="366.365,146.2 369.73,149.565 361.797,157.5 369.73,165.435 366.365,168.8 
+						355.064,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="377.665" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="388.966,146.2 392.331,149.565 384.396,157.5 392.331,165.435 388.966,168.8 
+						377.665,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="400.265" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="411.565,146.2 414.931,149.565 406.997,157.5 414.931,165.435 411.565,168.8 
+						400.265,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="422.865" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="434.166,146.2 437.531,149.565 429.597,157.5 437.531,165.435 434.166,168.8 
+						422.865,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="445.465" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="456.766,146.2 460.131,149.565 452.197,157.5 460.131,165.435 456.766,168.8 
+						445.465,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="468.065" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="479.366,146.2 482.731,149.565 474.797,157.5 482.731,165.435 479.366,168.8 
+						468.065,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="490.665" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="501.966,146.2 505.331,149.565 497.397,157.5 505.331,165.435 501.966,168.8 
+						490.665,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="513.265" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="524.566,146.2 527.932,149.565 519.997,157.5 527.932,165.435 524.566,168.8 
+						513.265,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="535.865" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="547.166,146.2 550.531,149.565 542.598,157.5 550.531,165.435 547.166,168.8 
+						535.865,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="558.465" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="569.767,146.2 573.132,149.565 565.197,157.5 573.132,165.435 569.767,168.8 
+						558.465,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="581.065" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="592.366,146.2 595.731,149.565 587.798,157.5 595.731,165.435 592.366,168.8 
+						581.065,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="603.666" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="614.967,146.2 618.332,149.565 610.397,157.5 618.332,165.435 614.967,168.8 
+						603.666,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="626.266" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="637.566,146.2 640.932,149.565 632.998,157.5 640.932,165.435 637.566,168.8 
+						626.266,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="648.866" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="660.167,146.2 663.532,149.565 655.598,157.5 663.532,165.435 660.167,168.8 
+						648.866,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="671.466" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="682.767,146.2 686.132,149.565 678.198,157.5 686.132,165.435 682.767,168.8 
+						671.466,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="694.066" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="705.367,146.2 708.732,149.565 700.798,157.5 708.732,165.435 705.367,168.8 
+						694.066,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="716.666" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="727.967,146.2 731.332,149.565 723.398,157.5 731.332,165.435 727.967,168.8 
+						716.666,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="739.266" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="750.567,146.2 753.933,149.565 745.998,157.5 753.933,165.435 750.567,168.8 
+						739.266,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="761.866" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="773.167,146.2 776.532,149.565 768.599,157.5 776.532,165.435 773.167,168.8 
+						761.866,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="784.467" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="795.768,146.2 799.133,149.565 791.198,157.5 799.133,165.435 795.768,168.8 
+						784.467,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="807.066" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="818.367,146.2 821.732,149.565 813.799,157.5 821.732,165.435 818.367,168.8 
+						807.066,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="829.666" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="840.968,146.2 844.333,149.565 836.398,157.5 844.333,165.435 840.968,168.8 
+						829.666,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="852.267" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="863.567,146.2 866.933,149.565 858.999,157.5 866.933,165.435 863.567,168.8 
+						852.267,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="874.867" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="886.168,146.2 889.533,149.565 881.599,157.5 889.533,165.435 886.168,168.8 
+						874.867,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="897.467" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="908.768,146.2 912.133,149.565 904.199,157.5 912.133,165.435 908.768,168.8 
+						897.467,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="920.066" y="146.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="931.368,146.2 934.733,149.565 926.799,157.5 934.733,165.435 931.368,168.8 
+						920.066,157.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="942.667" y="146.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="953.968,146.2 957.333,149.565 949.399,157.5 957.333,165.435 953.968,168.8 
+						942.667,157.5 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Pick_Path_10">
+	<g>
+		<g>
+			<g>
+				<rect x="-0.3" y="823.57" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,826.936 3.065,823.57 11,831.504 18.934,823.57 22.3,826.936 11,838.236 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="800.97" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,804.335 3.065,800.97 11,808.903 18.934,800.97 22.3,804.335 11,815.636 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="778.37" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,781.735 3.065,778.37 11,786.304 18.934,778.37 22.3,781.735 11,793.036 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="755.77" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,759.135 3.065,755.77 11,763.703 18.934,755.77 22.3,759.135 11,770.436 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="733.17" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,736.535 3.065,733.17 11,741.104 18.934,733.17 22.3,736.535 11,747.836 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="710.569" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,713.935 3.065,710.569 11,718.503 18.934,710.569 22.3,713.935 11,725.235 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="687.97" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,691.335 3.065,687.97 11,695.903 18.934,687.97 22.3,691.335 11,702.636 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="665.369" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,668.734 3.065,665.369 11,673.303 18.934,665.369 22.3,668.734 11,680.035 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="642.77" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,646.135 3.065,642.77 11,650.703 18.934,642.77 22.3,646.135 11,657.436 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="620.169" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,623.534 3.065,620.169 11,628.103 18.934,620.169 22.3,623.534 11,634.835 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="597.569" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,600.935 3.065,597.569 11,605.503 18.934,597.569 22.3,600.935 11,612.235 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="574.969" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,578.334 3.065,574.969 11,582.902 18.934,574.969 22.3,578.334 11,589.635 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="552.369" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,555.734 3.065,552.369 11,560.303 18.934,552.369 22.3,555.734 11,567.035 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="529.769" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,533.134 3.065,529.769 11,537.702 18.934,529.769 22.3,533.134 11,544.435 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="507.169" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,510.534 3.065,507.169 11,515.103 18.934,507.169 22.3,510.534 11,521.835 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="484.568" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,487.934 3.065,484.568 11,492.502 18.934,484.568 22.3,487.934 11,499.234 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="461.969" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,465.334 3.065,461.969 11,469.902 18.934,461.969 22.3,465.334 11,476.635 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="439.368" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,442.733 3.065,439.368 11,447.302 18.934,439.368 22.3,442.733 11,454.034 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="416.769" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,420.134 3.065,416.769 11,424.703 18.934,416.769 22.3,420.134 11,431.435 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="394.168" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,397.533 3.065,394.168 11,402.102 18.934,394.168 22.3,397.533 11,408.834 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="371.568" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,374.934 3.065,371.568 11,379.502 18.934,371.568 22.3,374.934 11,386.234 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="348.968" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,352.333 3.065,348.968 11,356.902 18.934,348.968 22.3,352.333 11,363.634 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="326.368" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,329.733 3.065,326.368 11,334.302 18.934,326.368 22.3,329.733 11,341.034 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="303.768" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,307.133 3.065,303.768 11,311.702 18.934,303.768 22.3,307.133 11,318.434 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="281.167" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,284.533 3.065,281.167 11,289.102 18.934,281.167 22.3,284.533 11,295.834 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="258.567" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,261.933 3.065,258.567 11,266.501 18.934,258.567 22.3,261.933 11,273.234 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="235.967" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,239.333 3.065,235.967 11,243.901 18.934,235.967 22.3,239.333 11,250.634 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="213.367" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,216.732 3.065,213.367 11,221.301 18.934,213.367 22.3,216.732 11,228.034 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="190.767" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,194.132 3.065,190.767 11,198.701 18.934,190.767 22.3,194.132 11,205.434 					
+						"/>
+				</g>
+			</g>
+			<g>
+				<rect x="-0.3" y="168.167" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="-0.3,171.532 3.065,168.167 11,176.101 18.934,168.167 22.3,171.532 11,182.833 					
+						"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Pick_Path_11">
+	<g>
+		<g>
+			<g>
+				<rect x="568.669" y="812.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="572.035,834.8 568.669,831.435 576.604,823.5 568.669,815.566 572.035,812.2 
+						583.336,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="546.069" y="812.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="549.435,834.8 546.069,831.435 554.003,823.5 546.069,815.566 549.435,812.2 
+						560.735,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="523.469" y="812.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="526.834,834.8 523.469,831.435 531.403,823.5 523.469,815.566 526.834,812.2 
+						538.136,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="500.869" y="812.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="504.234,834.8 500.869,831.435 508.803,823.5 500.869,815.566 504.234,812.2 
+						515.535,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="478.269" y="812.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="481.634,834.8 478.269,831.435 486.203,823.5 478.269,815.566 481.634,812.2 
+						492.936,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="455.669" y="812.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="459.034,834.8 455.669,831.435 463.603,823.5 455.669,815.566 459.034,812.2 
+						470.335,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="433.069" y="812.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="436.434,834.8 433.069,831.435 441.003,823.5 433.069,815.566 436.434,812.2 
+						447.735,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="410.469" y="812.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="413.834,834.8 410.469,831.435 418.403,823.5 410.469,815.566 413.834,812.2 
+						425.135,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="387.869" y="812.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="391.234,834.8 387.869,831.435 395.803,823.5 387.869,815.566 391.234,812.2 
+						402.535,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="365.269" y="812.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="368.634,834.8 365.269,831.435 373.203,823.5 365.269,815.566 368.634,812.2 
+						379.935,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="342.668" y="812.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="346.034,834.8 342.668,831.435 350.603,823.5 342.668,815.566 346.034,812.2 
+						357.335,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="320.068" y="812.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="323.434,834.8 320.068,831.435 328.002,823.5 320.068,815.566 323.434,812.2 
+						334.734,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="297.468" y="812.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="300.833,834.8 297.468,831.435 305.402,823.5 297.468,815.566 300.833,812.2 
+						312.135,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="274.868" y="812.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="278.233,834.8 274.868,831.435 282.802,823.5 274.868,815.566 278.233,812.2 
+						289.534,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="252.268" y="812.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="255.633,834.8 252.268,831.435 260.202,823.5 252.268,815.566 255.633,812.2 
+						266.935,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="229.668" y="812.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="233.033,834.8 229.668,831.435 237.602,823.5 229.668,815.566 233.033,812.2 
+						244.334,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="207.068" y="812.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="210.433,834.8 207.068,831.435 215.002,823.5 207.068,815.566 210.433,812.2 
+						221.734,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="184.468" y="812.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="187.833,834.8 184.468,831.435 192.402,823.5 184.468,815.566 187.833,812.2 
+						199.134,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="161.868" y="812.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="165.233,834.8 161.868,831.435 169.802,823.5 161.868,815.566 165.233,812.2 
+						176.534,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="139.268" y="812.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="142.633,834.8 139.268,831.435 147.202,823.5 139.268,815.566 142.633,812.2 
+						153.934,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="116.667" y="812.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="120.033,834.8 116.667,831.435 124.602,823.5 116.667,815.566 120.033,812.2 
+						131.334,823.5 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="94.067" y="812.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="97.433,834.8 94.067,831.435 102.001,823.5 94.067,815.566 97.433,812.2 108.733,823.5 
+											"/>
+				</g>
+			</g>
+			<g>
+				<rect x="71.467" y="812.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="74.833,834.8 71.467,831.435 79.401,823.5 71.467,815.566 74.833,812.2 86.134,823.5 
+											"/>
+				</g>
+			</g>
+			<g>
+				<rect x="48.867" y="812.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="52.232,834.8 48.867,831.435 56.801,823.5 48.867,815.566 52.232,812.2 63.533,823.5 
+											"/>
+				</g>
+			</g>
+			<g>
+				<rect x="26.267" y="812.2" style="fill:none;" width="14.667" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="29.632,834.8 26.267,831.435 34.201,823.5 26.267,815.566 29.632,812.2 40.934,823.5 
+											"/>
+				</g>
+			</g>
+			<g>
+				<rect x="3.667" y="812.2" style="fill:none;" width="14.666" height="22.6"/>
+				<g>
+					<polygon style="fill:#202020;" points="7.032,834.8 3.667,831.435 11.601,823.5 3.667,815.566 7.032,812.2 18.333,823.5 					
+						"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Pick_Path_12">
+	<g>
+		<g>
+			<g>
+				<rect x="571.449" y="28.414" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,39.714 590.684,43.08 582.749,35.146 574.815,43.08 571.449,39.714 
+						582.749,28.414 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="51.014" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,62.314 590.684,65.68 582.749,57.746 574.815,65.68 571.449,62.314 
+						582.749,51.014 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="73.614" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,84.915 590.684,88.28 582.749,80.346 574.815,88.28 571.449,84.915 
+						582.749,73.614 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="96.214" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,107.515 590.684,110.88 582.749,102.946 574.815,110.88 571.449,107.515 
+						582.749,96.214 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="118.814" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,130.115 590.684,133.48 582.749,125.546 574.815,133.48 571.449,130.115 
+						582.749,118.814 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="141.414" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,152.715 590.684,156.08 582.749,148.146 574.815,156.08 571.449,152.715 
+						582.749,141.414 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="164.014" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,175.315 590.684,178.68 582.749,170.746 574.815,178.68 571.449,175.315 
+						582.749,164.014 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="186.614" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,197.915 590.684,201.28 582.749,193.346 574.815,201.28 571.449,197.915 
+						582.749,186.614 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="209.214" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,220.515 590.684,223.88 582.749,215.946 574.815,223.88 571.449,220.515 
+						582.749,209.214 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="231.814" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,243.115 590.684,246.48 582.749,238.546 574.815,246.48 571.449,243.115 
+						582.749,231.814 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="254.415" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,265.715 590.684,269.081 582.749,261.146 574.815,269.081 571.449,265.715 
+						582.749,254.415 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="277.015" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,288.315 590.684,291.681 582.749,283.747 574.815,291.681 571.449,288.315 
+						582.749,277.015 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="299.615" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,310.916 590.684,314.281 582.749,306.347 574.815,314.281 571.449,310.916 
+						582.749,299.615 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="322.215" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,333.516 590.684,336.881 582.749,328.947 574.815,336.881 571.449,333.516 
+						582.749,322.215 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="344.815" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,356.116 590.684,359.481 582.749,351.547 574.815,359.481 571.449,356.116 
+						582.749,344.815 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="367.415" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,378.716 590.684,382.081 582.749,374.147 574.815,382.081 571.449,378.716 
+						582.749,367.415 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="390.015" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,401.316 590.684,404.681 582.749,396.747 574.815,404.681 571.449,401.316 
+						582.749,390.015 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="412.615" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,423.916 590.684,427.281 582.749,419.347 574.815,427.281 571.449,423.916 
+						582.749,412.615 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="435.215" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,446.516 590.684,449.881 582.749,441.947 574.815,449.881 571.449,446.516 
+						582.749,435.215 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="457.815" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,469.116 590.684,472.481 582.749,464.548 574.815,472.481 571.449,469.116 
+						582.749,457.815 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="480.415" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,491.717 590.684,495.082 582.749,487.147 574.815,495.082 571.449,491.717 
+						582.749,480.415 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="503.016" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,514.316 590.684,517.682 582.749,509.748 574.815,517.682 571.449,514.316 
+						582.749,503.016 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="525.615" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,536.917 590.684,540.282 582.749,532.348 574.815,540.282 571.449,536.917 
+						582.749,525.615 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="548.216" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,559.517 590.684,562.882 582.749,554.948 574.815,562.882 571.449,559.517 
+						582.749,548.216 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="570.815" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,582.117 590.684,585.482 582.749,577.548 574.815,585.482 571.449,582.117 
+						582.749,570.815 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="593.416" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,604.717 590.684,608.082 582.749,600.148 574.815,608.082 571.449,604.717 
+						582.749,593.416 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="616.016" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,627.317 590.684,630.683 582.749,622.748 574.815,630.683 571.449,627.317 
+						582.749,616.016 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="638.616" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,649.917 590.684,653.282 582.749,645.349 574.815,653.282 571.449,649.917 
+						582.749,638.616 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="661.216" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,672.518 590.684,675.883 582.749,667.948 574.815,675.883 571.449,672.518 
+						582.749,661.216 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="683.816" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,695.117 590.684,698.482 582.749,690.549 574.815,698.482 571.449,695.117 
+						582.749,683.816 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="706.416" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,717.718 590.684,721.083 582.749,713.148 574.815,721.083 571.449,717.718 
+						582.749,706.416 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="729.017" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,740.317 590.684,743.683 582.749,735.749 574.815,743.683 571.449,740.317 
+						582.749,729.017 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="751.616" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,762.918 590.684,766.283 582.749,758.349 574.815,766.283 571.449,762.918 
+						582.749,751.616 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="774.217" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,785.518 590.684,788.883 582.749,780.949 574.815,788.883 571.449,785.518 
+						582.749,774.217 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="796.816" style="fill:none;" width="22.6" height="14.667"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,808.118 590.684,811.483 582.749,803.549 574.815,811.483 571.449,808.118 
+						582.749,796.816 					"/>
+				</g>
+			</g>
+			<g>
+				<rect x="571.449" y="819.417" style="fill:none;" width="22.6" height="14.666"/>
+				<g>
+					<polygon style="fill:#202020;" points="594.049,830.718 590.684,834.083 582.749,826.149 574.815,834.083 571.449,830.718 
+						582.749,819.417 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="Start_Path">
+	<rect x="981.5" y="72.5" style="fill:#00FF12;stroke:#FF0000;stroke-miterlimit:10;" width="31" height="31"/>
 </g>
 </svg>
