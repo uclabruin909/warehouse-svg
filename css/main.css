@@ -7,6 +7,10 @@ p {
 	font: 13px/1.7em 'Open Sans'; 	
 }
     
+a {
+	color: #f68933;
+}
+
 input,
 button,
 select,
@@ -62,7 +66,7 @@ textarea {
 .navbar-inner {
 	padding: 7px 0;
 	
-	background: #00ba8b !important;
+	background: #f68933 !important;
 	
 	-moz-border-radius: 0;
 	-webkit-border-radius: 0;
@@ -77,10 +81,30 @@ textarea {
 	font-size: 11px;
 }
 .navbar .nav>li>a { color:#fff !important;}
+
+
+.navbar .logo {
+	display: inline-block;
+	background: url(../img/logo.png) no-repeat;
+	background-size: contain;
+	float: left;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+
+}
+
+
+
+
+
 .navbar .brand {
 	font-weight: 600;
 	position: relative;
 	top: 2px;
+	float: right;
+	display: inline-block;
+	color: black;
 }
 
 
@@ -164,6 +188,10 @@ textarea {
 
 .subnavbar .dropdown .dropdown-menu a {
 	font-size: 12px;
+}
+
+.subnavbar .dropdown .dropdown-menu li:hover{
+	background-color: #f68933;
 }
 
     
@@ -409,7 +437,7 @@ textarea {
 [Miscellaneous]
 */
 
-.dropdown-menu li>a:hover, .dropdown-menu .active>a, .dropdown-menu .active>a:hover { background:#00ba8b;}
+.dropdown-menu li>a:hover, .dropdown-menu .active>a, .dropdown-menu .active>a:hover { background:#f68933;}
 
 
 
@@ -589,69 +617,106 @@ ShortCut Icons
 Zone Buttons
 */
 
-#zone1but.activated {
+#zone1but:hover, #zone1but.activated {
 	background-color: gray;
 }
 
-#zone2but.activated {
+#zone2but:hover, #zone2but.activated {
 	background-color: #d36a6a;
 }
 
-#zone3but.activated {
+#zone3but:hover, #zone3but.activated {
 	background-color: #bfbf08;
 }
 
-#zone4but.activated {
+#zone4but:hover, #zone4but.activated {
 	background-color: #069ec1;
 }
 
-#zone5but.activated {
+#zone5but:hover, #zone5but.activated {
 	background-color: #5dbc0a;
 }
 
-#zone6but.activated {
+#zone6but:hover, #zone6but.activated {
 	background-color: #AD7505;
 }
 
-#zone7but.activated {
+#zone7but:hover, #zone7but.activated {
 	background-color: #A45De8;
 }
 
-#zone8but.activated {
+#zone8but:hover, #zone8but.activated {
 	background-color: #ff5a00;
 }
 
-#zone8but.activated {
-	background-color: #ff5a00;
-}
 
-#zone9but.activated {
+#zone9but:hover, #zone9but.activated {
 	background-color: #27fc08;
 }
 
-#zone10but.activated {
+#zone10but:hover, #zone10but.activated {
 	background-color: #395EF7;
 }
 
-#zone11but.activated {
+#zone11but:hover, #zone11but.activated {
 	background-color: #00E1ff;
 }
 
-#zone12but.activated {
+#zone12but:hover, #zone12but.activated {
 	background-color: #774326;
 }
 
 
+#zone13but:hover, #zone13but.activated {
+	background-color: #f7e628;
+}
+
+#zone14but:hover, #zone14but.activated {
+	background-color: #fe00fd;
+}
+
+#zone15but:hover, #zone15but.activated {
+	background-color: #a67b53;
+}
+
+
+
+
+
+
+
+.zone-buttons ul{
+	text-align: center;
+	width: 100%;
+}
+
 .zone-buttons li{
 	margin-bottom: 0.5em;
+	list-style: none;
+	display: inline-block;
+
+}
+
+.zone-buttons button{
+	font-weight: bold;
+}
+
+.pick-buttons{
 	list-style: none;
 }
 
 
-@media (max-width: 767px) {
+
+@media (min-width: 767px) and (max-width: 979px) {
+
+	.span8{
+		width: 766px;
+	}
 
 
-	#zones {
+
+
+	.zone-buttons ul{
 	text-align: center;
 }
 
@@ -661,14 +726,97 @@ Zone Buttons
 	}
 
 
+
 }
 
-@media (max-width: 1500px) {
+@media (min-width: 980px) and (max-width: 1300px) {
 
 
 	.zone-buttons button{
 	width: 75%;
 	}
 
+	.zone-buttons li{
+	display: block;
+	}
 
+
+	.zone-buttons button{
+	width: 75%;
+	}
+
+	.span8{
+		width: 740px;
+	}
+
+
+
+}
+
+
+@media (min-width: 1301px) and (max-width: 1500px) {
+
+
+	.zone-buttons button{
+	width: 75%;
+	}
+
+	.zone-buttons li{
+	display: block;
+	}
+
+
+	.zone-buttons button{
+	width: 75%;
+	}
+
+	.span8{
+		width: 900px;
+	}
+
+
+
+}
+
+@media (min-width: 1501px) {
+
+
+	.zone-buttons button{
+	width: 75%;
+	}
+
+	.zone-buttons li{
+	display: block;
+	}
+
+
+	.zone-buttons button{
+	width: 75%;
+	}
+
+	.span8{
+		width: 1100px;
+	}
+
+
+
+}
+
+
+
+/*------------------------------------------------------------------
+Aisle Table
+*/
+
+.table.aisles th, .table.aisles td{
+	font-size: 15px;
+	text-align: center;
+}
+
+.table.aisles input[type=checkbox] {
+  /* All browsers except webkit*/
+  transform: scale(1.2);
+
+  /* Webkit browsers*/
+  -webkit-transform: scale(1.2);
 }
