@@ -20,7 +20,11 @@
 <body>
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
-        <div class="container-fluid"><a class="brand" href="index.html">P400 SAP Implementation </a>
+        <div class="container-fluid">
+
+        <div class="logo"></div>
+        <a class="brand" href="index.html">P400 SAP Implementation </a>
+        
         </div>
         <!-- /container --> 
       </div>
@@ -33,7 +37,20 @@
       <div class="subnavbar-inner">
         <div class="container-fluid">
           <ul class="mainnav">
+
+
+
             <li class="active"><a href="index.html"><i class="icon-dashboard"></i><span>Overview</span> </a> </li>
+
+
+            <li class="">                 
+                <a href="info.html">
+                    <i class="icon-code"></i>
+                    <span>Detail</span>
+                </a>                                    
+            </li>
+    
+
             <li class="dropdown"><a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown"> <i class="icon-long-arrow-down"></i><span>Zone Info</span> <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="zones.html">Zone 1</a></li>
@@ -45,12 +62,7 @@
             </li>
 
             
-            <li class="active">                 
-                <a href="info.html">
-                    <i class="icon-code"></i>
-                    <span>Detail</span>
-                </a>                                    
-            </li>
+
           </ul>
         </div>
         <!-- /container --> 
@@ -63,7 +75,7 @@
     <div class="main">
         <div class="main-inner">
             <div class="container-fluid">
-                <div class="row">
+                <div class="row-fluid">
 
                     <div class="span3">
                         <div class="widget">
@@ -78,7 +90,7 @@
                                     <ul class="nav nav-tabs">
                                       <li class="active"><a href="#zones" data-toggle="tab">ZONES</a></li>
                                       <li>
-                                        <a href="#aisles" data-toggle="tab">AISLES</a>
+                                        <a href="#aisles" data-toggle="tab">PATH</a>
                                       </li>           
                                     </ul>
                                     
@@ -122,6 +134,12 @@
                                                
                                                <li><button id="zone12but" type="button" class="btn">Zone 12</button></li>
 
+                                               <li><button id="zone13but" type="button" class="btn">Zone 13</button></li>
+
+                                               <li><button id="zone14but" type="button" class="btn">Zone 14</button></li>
+
+                                               <li><button id="zone15but" type="button" class="btn">Zone 15</button></li>
+
                                             </ul>
                                                 
                                          </div>      
@@ -130,21 +148,43 @@
 
                                             <table class="table aisles">
 
-                                            	<tr><th>Pick</th><th>Aisles</th><th></th></tr>
+                                              <!--Pick Path Table Headers-->
+                                            	<tr><th>PickSeq</th><th>Zone</th><th>S Zone</th><th>X</th></tr>
 
 
-                                            	<tr><td>1</td><td>B18</td><td><input id="pickPath1" type="checkbox"></td></tr>
-                                            	<tr><td>2</td><td>B32-B13</td><td><input id="pickPath2" type="checkbox"></td></tr>
-                                            	<tr><td>3</td><td>B12-B01</td><td><input id="pickPath3" type="checkbox"></td></tr>
-                                            	<tr><td>4</td><td>1</td><td><input id="pickPath4" type="checkbox"></td></tr>
-                                            	<tr><td>5</td><td>1</td><td><input id="pickPath5" type="checkbox"></td></tr>
-                                            	<tr><td>6</td><td>1</td><td><input id="pickPath6" type="checkbox"></td></tr>
-                                            	<tr><td>7</td><td>1</td><td><input id="pickPath7" type="checkbox"></td></tr>
-                                            	<tr><td>8</td><td>1</td><td><input id="pickPath8" type="checkbox"></td></tr>
-                                            	<tr><td>9</td><td>1</td><td><input id="pickPath9" type="checkbox"></td></tr>
-                                            	<tr><td>10</td><td>1</td><td><input id="pickPath10" type="checkbox"></td></tr>
-                                            	<tr><td>11</td><td>1</td><td><input id="pickPath11" type="checkbox"></td></tr>
-                                            	<tr><td>12</td><td>1</td><td><input id="pickPath12" type="checkbox"></td></tr>
+                                            	<tr><td>1</td><td>1</td><td>N/A</td><td><input id="pickPath1" type="checkbox"></td></tr>
+
+
+                                              <tr><td>2</td><td>2</td><td>N/A</td><td><input id="pickPath2" type="checkbox"></td></tr>
+
+
+                                              <tr><td>3</td><td>4</td><td>N/A</td><td><input id="pickPath3" type="checkbox"></td></tr>
+
+
+                                              <tr><td>-</td><td>-</td><td>N/A</td><td><input id="pickPath4" type="checkbox"></td></tr>
+
+
+                                              <tr><td>4</td><td>5</td><td>N/A</td><td><input id="pickPath5" type="checkbox"></td></tr>
+
+
+                                              <tr><td>5</td><td>3</td><td>N/A</td><td><input id="pickPath6" type="checkbox"></td></tr>
+
+
+                                              <tr><td></td><td></td><td>N/A</td><td><input id="pickPath7" type="checkbox"></td></tr>
+
+
+                                              <tr><td>6</td><td>6</td><td>7</td><td><input id="pickPath8" type="checkbox"></td></tr>
+
+
+                                              <tr><td>7</td><td>10</td><td>N/A</td><td><input id="pickPath9" type="checkbox"></td></tr>
+
+
+                                              <tr><td>8</td><td>13</td><td>14</td><td><input id="pickPath10" type="checkbox"></td></tr>
+
+
+                                              <tr><td>9</td><td>12</td><td>9</td><td><input id="pickPath11" type="checkbox"></td></tr>
+
+                                              <tr><td>10</td><td>8</td><td>11</td><td><input id="pickPath12" type="checkbox"></td></tr>
                                             	
 
                                             </table>
@@ -164,10 +204,10 @@
                     <!-- /span3 -->
                 </div>
 
-                    <div class="span8 warehouse-map">
+                    <div class="span9 warehouse-map">
                     <div class="widget">
                             <div class="widget-header"> <i class="icon-bookmark"></i>
-                              <h3>Warehouse Map</h3>
+                              <h3>Warehouse Map</h3> <button id="aisleBut" style="float: right" type="button" class="btn btn-warning">SHOW AISLES</button>
                             </div>
                             <!-- /widget-header -->
                              <div class="widget-content">
@@ -213,7 +253,7 @@
                                 <rect x="379" y="657" style="fill:none;" width="628" height="59"/>
                                 <rect x="170" y="47" style="fill:none;" width="642" height="43"/>
                               </g>
-                              <g id="Zone_12_Area_1_">
+                              <g id="Zone_12_Area">
                                 <rect x="-1" y="668" style="fill:none;" width="132" height="232"/>
                               </g>
                               <g id="Zone_13_Area">
@@ -3104,8 +3144,10 @@
         	zone9 = new Zone(9, '#27fc08').init(),
         	zone10 = new Zone(10, '#395EF7').init(),
         	zone11 = new Zone(11, '#00E1ff').init(),
-			zone12 = new Zone(12, '#774326').init();
-
+		      zone12 = new Zone(12, '#774326').init(),
+          zone13 = new Zone(13, '#f7e628').init(),
+          zone14 = new Zone(14, '#fe00fd').init(),
+          zone15 = new Zone(15, '#a67b53').init();
 
 
 		
